@@ -3,9 +3,9 @@
     public class Student
     {
         public int StudentId { get; set; }
-        public string? StudentName { get; set; }
-        public DateTime EnrollmentDate { get; set; }
-        public AcademGroup? AcademGroup { get; set; }
+        public string StudentName { get; set; }
+        public int AcademGroupId { get; set; }
+        public AcademGroup AcademGroup { get; set; }
 
     }
 }

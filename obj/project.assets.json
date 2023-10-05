@@ -1630,11 +1630,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andreev\\Source\\Repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20.csproj",
+      "projectUniqueName": "D:\\Universety\\C# Карсаков\\Lab\\AndreevAndreyKT-41-20.csproj",
       "projectName": "AndreevAndreyKT-41-20",
-      "projectPath": "C:\\Users\\Andreev\\Source\\Repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20.csproj",
+      "projectPath": "D:\\Universety\\C# Карсаков\\Lab\\AndreevAndreyKT-41-20.csproj",
       "packagesPath": "C:\\Users\\Andreev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andreev\\Source\\Repos\\andreev-andrey-kt-41-20\\obj\\",
+      "outputPath": "D:\\Universety\\C# Карсаков\\Lab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andreev\\AppData\\Roaming\\NuGet\\NuGet.Config",

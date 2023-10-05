@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Database\Helpers\" />
+    <Folder Include="Migrations\" />
   </ItemGroup>
 
 </Project>
