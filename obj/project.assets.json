@@ -1625,19 +1625,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Andreev\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Universety\\C# Карсаков\\Lab\\AndreevAndreyKT-41-20.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\Andreev\\lab\\AndreevAndreyKT-41-20.csproj",
       "projectName": "AndreevAndreyKT-41-20",
-      "projectPath": "D:\\Universety\\C# Карсаков\\Lab\\AndreevAndreyKT-41-20.csproj",
-      "packagesPath": "C:\\Users\\Andreev\\.nuget\\packages\\",
-      "outputPath": "D:\\Universety\\C# Карсаков\\Lab\\obj\\",
+      "projectPath": "C:\\Users\\user\\Documents\\Andreev\\lab\\AndreevAndreyKT-41-20.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Documents\\Andreev\\lab\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Andreev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1705,7 +1710,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
