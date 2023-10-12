@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7uhipLnrOsRHO6eU/mXtyJL8/I0PFhU1eXuequ7eCp9GGFpvEubXOdKkBZoU3TS+8e5VKvRXQSrW4rJXXBu1fg==",
+  "dgSpecHash": "cOEgpUVxy++jLbcn5sZJiWJPweaajYHjKRJOojk6nyZ9g9Y3hdpx5J8pj8wEaRToqFsAaDVBDimn1q1lKRTY3w==",
   "success": true,
-  "projectFilePath": "D:\\Universety\\C# Карсаков\\Lab\\AndreevAndreyKT-41-20.csproj",
+  "projectFilePath": "C:\\Users\\Andreev\\Source\\Repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andreev\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Andreev\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",

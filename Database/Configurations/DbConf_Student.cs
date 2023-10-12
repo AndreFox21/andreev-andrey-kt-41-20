@@ -37,6 +37,12 @@ namespace AndreevAndreyKT_41_20.Database.Configurations
                 .HasColumnType(ColumnType.Int)
                 .HasComment("ID группы");
 
+            builder.Property(p => p.StudentDescription)
+                .IsRequired()
+                .HasColumnName("student_description")
+                .HasColumnType(ColumnType.String).HasMaxLength(100)
+                .HasComment("Описание");
+
             // описываем связи
 
             builder.ToTable(TableName)

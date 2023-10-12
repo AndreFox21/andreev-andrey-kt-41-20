@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andreev\\Source\\Repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20.csproj": {}
+    "C:\\Users\\Andreev\\source\\repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20.Tests\\AndreevAndreyKT-41-20.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andreev\\Source\\Repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20.csproj": {
+    "C:\\Users\\Andreev\\source\\repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20.Tests\\AndreevAndreyKT-41-20.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andreev\\Source\\Repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20.csproj",
-        "projectName": "AndreevAndreyKT-41-20",
-        "projectPath": "C:\\Users\\Andreev\\Source\\Repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20.csproj",
+        "projectUniqueName": "C:\\Users\\Andreev\\source\\repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20.Tests\\AndreevAndreyKT-41-20.Tests.csproj",
+        "projectName": "AndreevAndreyKT-41-20.Tests",
+        "projectPath": "C:\\Users\\Andreev\\source\\repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20.Tests\\AndreevAndreyKT-41-20.Tests.csproj",
         "packagesPath": "C:\\Users\\Andreev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andreev\\Source\\Repos\\andreev-andrey-kt-41-20\\obj\\",
+        "outputPath": "C:\\Users\\Andreev\\source\\repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andreev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -37,30 +37,28 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[17.7.1, )"
             },
-            "Microsoft.EntityFrameworkCore.Tools": {
+            "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[3.2.0, )"
             },
-            "NLog.Web.AspNetCore": {
+            "xunit": {
               "target": "Package",
-              "version": "[5.3.4, )"
+              "version": "[2.4.2, )"
             },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.11, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
+              "version": "[2.4.5, )"
             }
           },
           "imports": [
@@ -75,9 +73,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

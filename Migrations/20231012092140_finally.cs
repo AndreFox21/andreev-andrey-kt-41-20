@@ -6,7 +6,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace AndreevAndreyKT_41_20.Migrations
 {
     /// <inheritdoc />
-    public partial class final : Migration
+    public partial class @finally : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -32,7 +32,8 @@ namespace AndreevAndreyKT_41_20.Migrations
                     student_id = table.Column<int>(type: "integer", nullable: false, comment: "ID студента")
                         .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
                     student_name = table.Column<string>(type: "varchar", maxLength: 100, nullable: false, comment: "ФИО студента"),
-                    academ_group_id = table.Column<int>(type: "int4", nullable: false, comment: "ID группы")
+                    academ_group_id = table.Column<int>(type: "int4", nullable: false, comment: "ID группы"),
+                    student_description = table.Column<string>(type: "varchar", maxLength: 100, nullable: false, comment: "Описание")
                 },
                 constraints: table =>
                 {

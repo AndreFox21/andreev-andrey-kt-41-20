@@ -148,3 +148,26 @@ D:\Universety\C# Карсаков\Lab\obj\Debug\net6.0\refint\AndreevAndreyKT-41
 D:\Universety\C# Карсаков\Lab\obj\Debug\net6.0\AndreevAndreyKT-41-20.pdb
 D:\Universety\C# Карсаков\Lab\obj\Debug\net6.0\AndreevAndreyKT-41-20.genruntimeconfig.cache
 D:\Universety\C# Карсаков\Lab\obj\Debug\net6.0\ref\AndreevAndreyKT-41-20.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\libman.json
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Andreev\Source\Repos\andreev-andrey-kt-41-20\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

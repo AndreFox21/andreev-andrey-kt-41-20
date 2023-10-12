@@ -11,8 +11,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace AndreevAndreyKT_41_20.Migrations
 {
     [DbContext(typeof(StudDatabaseContext))]
-    [Migration("20231005094931_final")]
-    partial class final
+    [Migration("20231012092140_finally")]
+    partial class @finally
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -68,6 +68,13 @@ namespace AndreevAndreyKT_41_20.Migrations
                         .HasColumnType("int4")
                         .HasColumnName("academ_group_id")
                         .HasComment("ID группы");
+
+                    b.Property<string>("StudentDescription")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("varchar")
+                        .HasColumnName("student_description")
+                        .HasComment("Описание");
 
                     b.Property<string>("StudentName")
                         .IsRequired()
