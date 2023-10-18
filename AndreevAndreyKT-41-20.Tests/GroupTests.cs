@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AndreevAndreyKT_41_20.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,10 +12,16 @@ namespace AndreevAndreyKT_41_20.Tests
         [Fact]
         public void IsValidGroupName_KT4120_True()
         {
-            //var testGroup = new AcademGroup
-            //{
+            var testGroup = new AcademGroup
+            {
+                AcademGroupId = 1,
+                GroupName = "KT-41-20",
+                GroupDescription = "Не удалена"
+            };
 
-            //};
+            var result = testGroup.IsValidGroupName();
+
+            Assert.True(result);
 
         }
     }

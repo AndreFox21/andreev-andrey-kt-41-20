@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AndreevAndreyKT-41-20.Tests",
+    "\\Models"
   ],
-  "SelectedNode": "\\C:\\Users\\user\\Source\\Repos\\andreev-andrey-kt-41-20",
+  "SelectedNode": "\\AndreevAndreyKT-41-20.Tests\\GroupTests.cs",
   "PreviewInSolutionExplorer": false
 }
