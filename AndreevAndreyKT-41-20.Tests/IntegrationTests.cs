@@ -21,7 +21,9 @@ namespace AndreevAndreyKT_41_20.Tests
                 .UseInMemoryDatabase(databaseName: "test_db")
                 .Options;
         }
-        public async Task GetStudentsByGroupAsync_KT41120_TwoObjects()
+
+        [Fact]
+        public async Task GetStudentsByGroupAsync_KT41120_OneObject()
         {
             // Arrange
             var ctx = new StudDatabaseContext(_dbContextOptions);
@@ -81,7 +83,7 @@ namespace AndreevAndreyKT_41_20.Tests
             var studentsResult = await studentService.GetStudentsByGroupAsync(filter, CancellationToken.None);
 
             // Assert
-            Assert.Equal(2, studentsResult.Length);
+            Assert.Single(studentsResult);
 
         }
     }

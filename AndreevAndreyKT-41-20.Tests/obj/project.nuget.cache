@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S1DL8VNkQ1qivnIiugACjUFoUO5va6ggZjVtEsBob+pHhFF0zI4KBgZ9dKWxXJolGFY5ELKDOhMm78eAAXeIdg==",
+  "dgSpecHash": "rr7Fy1s/kbDWrWbzDMrBsdxLzUFcV1jSU7sJbbTYa3DICzNSekU8QKDaIPxY5VvcWIo4gDYEkkX8UCBxhyRXlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andreev\\source\\repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20.Tests\\AndreevAndreyKT-41-20.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Andreev\\Documents\\Andreev\\lab\\AndreevAndreyKT-41-20.Tests\\AndreevAndreyKT-41-20.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andreev\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Andreev\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",

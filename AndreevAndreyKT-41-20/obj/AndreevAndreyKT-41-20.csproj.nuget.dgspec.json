@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andreev\\source\\repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20\\AndreevAndreyKT-41-20.csproj": {}
+    "C:\\Users\\Andreev\\Documents\\Andreev\\lab\\AndreevAndreyKT-41-20\\AndreevAndreyKT-41-20.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andreev\\source\\repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20\\AndreevAndreyKT-41-20.csproj": {
+    "C:\\Users\\Andreev\\Documents\\Andreev\\lab\\AndreevAndreyKT-41-20\\AndreevAndreyKT-41-20.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andreev\\source\\repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20\\AndreevAndreyKT-41-20.csproj",
+        "projectUniqueName": "C:\\Users\\Andreev\\Documents\\Andreev\\lab\\AndreevAndreyKT-41-20\\AndreevAndreyKT-41-20.csproj",
         "projectName": "AndreevAndreyKT-41-20",
-        "projectPath": "C:\\Users\\Andreev\\source\\repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20\\AndreevAndreyKT-41-20.csproj",
+        "projectPath": "C:\\Users\\Andreev\\Documents\\Andreev\\lab\\AndreevAndreyKT-41-20\\AndreevAndreyKT-41-20.csproj",
         "packagesPath": "C:\\Users\\Andreev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andreev\\source\\repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20\\obj\\",
+        "outputPath": "C:\\Users\\Andreev\\Documents\\Andreev\\lab\\AndreevAndreyKT-41-20\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andreev\\AppData\\Roaming\\NuGet\\NuGet.Config",

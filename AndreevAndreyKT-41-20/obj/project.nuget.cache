@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VKRwdbfnJyMWuf4vLBb4Kvj5ztfiHqGM+mnHaptIG+x5I36mC4AwYPNRbCCzoJgeMYAoQYcgB9IEKVs3i2FRYw==",
+  "dgSpecHash": "KzYvM7D6p1RAQ3w0cVAv+g/pmzOdhAG/SoL/WY/sB+AXLv52Xjk0Ht030m2llWsytcJYZ+/77/cn6Pf5irvgEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andreev\\source\\repos\\andreev-andrey-kt-41-20\\AndreevAndreyKT-41-20\\AndreevAndreyKT-41-20.csproj",
+  "projectFilePath": "C:\\Users\\Andreev\\Documents\\Andreev\\lab\\AndreevAndreyKT-41-20\\AndreevAndreyKT-41-20.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andreev\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Andreev\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
