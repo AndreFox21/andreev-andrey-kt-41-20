@@ -4,6 +4,6 @@
     {
         public string GroupName { get; set; }
         public string StudentName { get; set; }
-        public string StudentDescription { get; set; }
+        public bool IsDismissed { get; set; }
     }
 }

@@ -16,7 +16,7 @@ namespace AndreevAndreyKT_41_20.Tests
             {
                 AcademGroupId = 1,
                 GroupName = "KT-41-20",
-                GroupDescription = "Не удалена"
+                GroupDescription = "Факультет ИВТ"
             };
 
             var result = testGroup.IsValidGroupName();

@@ -37,11 +37,11 @@ namespace AndreevAndreyKT_41_20.Database.Configurations
                 .HasColumnType(ColumnType.Int)
                 .HasComment("ID группы");
 
-            builder.Property(p => p.StudentDescription)
+            builder.Property(p => p.IsDismissed)
                 .IsRequired()
-                .HasColumnName("student_description")
-                .HasColumnType(ColumnType.String).HasMaxLength(100)
-                .HasComment("Описание");
+                .HasColumnName("is_dismissed")
+                .HasColumnType(ColumnType.Bool)
+                .HasComment("Статус отчисления");
 
             // описываем связи
 

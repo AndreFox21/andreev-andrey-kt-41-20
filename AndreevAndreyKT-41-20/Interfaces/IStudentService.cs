@@ -21,7 +21,7 @@ namespace AndreevAndreyKT_41_20.Interfaces
         public Task<Student[]> GetStudentsByGroupAsync(StudentGroupFilter filter, CancellationToken cancellationToken)
         {
             //throw new NotImplementedException();
-            var students = _dbContext.Set<Student>().Where(w => w.AcademGroup.GroupName == filter.GroupName).Where(w => w.StudentName == filter.StudentName).Where(w => w.StudentDescription == filter.StudentDescription).ToArrayAsync(cancellationToken);
+            var students = _dbContext.Set<Student>().Where(w => w.AcademGroup.GroupName == filter.GroupName).Where(w => w.StudentName == filter.StudentName).Where(w => w.IsDismissed == filter.IsDismissed).ToArrayAsync(cancellationToken);
             return students;
         }
     }

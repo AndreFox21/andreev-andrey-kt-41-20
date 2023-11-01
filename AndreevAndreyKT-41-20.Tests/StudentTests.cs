@@ -17,7 +17,7 @@ namespace AndreevAndreyKT_41_20.Tests
                 StudentId = 1,
                 StudentName = "Андреев А.А.",
                 AcademGroupId = 1,
-                StudentDescription = "Студент 4 курса"
+                IsDismissed = false
             };
 
             var result = testStud.IsValidStudentName();

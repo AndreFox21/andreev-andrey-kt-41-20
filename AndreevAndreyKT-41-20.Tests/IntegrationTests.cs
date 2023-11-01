@@ -34,13 +34,13 @@ namespace AndreevAndreyKT_41_20.Tests
                 {
                     AcademGroupId = 1,
                     GroupName = "KT-31-20",
-                    GroupDescription = "Не удалена"
+                    GroupDescription = "Факультет ИВТ"
                 },
                 new AcademGroup
                 {
                     AcademGroupId = 2,
                     GroupName = "KT-41-20",
-                    GroupDescription = "Не удалена"
+                    GroupDescription = "Факультет ИВТ"
                 }
             };
             await ctx.Set<AcademGroup>().AddRangeAsync(groups);
@@ -52,21 +52,21 @@ namespace AndreevAndreyKT_41_20.Tests
                     StudentId = 1,
                     StudentName = "Андреев А.А.",
                     AcademGroupId = 2,
-                    StudentDescription = "Студент 4 курса"
+                    IsDismissed = false
                 },
                 new Student
                 {
                     StudentId = 2,
                     StudentName = "Иванов И.И.",
                     AcademGroupId = 1,
-                    StudentDescription = "Студент 4 курса"
+                    IsDismissed = true
                 },
                 new Student
                 {
                     StudentId = 3,
                     StudentName = "Макаров А.В.",
                     AcademGroupId = 2,
-                    StudentDescription = "Студент 4 курса"
+                    IsDismissed = false
                 }
             };
             await ctx.Set<Student>().AddRangeAsync(students);
@@ -78,7 +78,7 @@ namespace AndreevAndreyKT_41_20.Tests
             {
                 GroupName = "KT-41-20",
                 StudentName = "Андреев А.А.",
-                StudentDescription = "Студент 4 курса"
+                IsDismissed = false
             };
             var studentsResult = await studentService.GetStudentsByGroupAsync(filter, CancellationToken.None);
 

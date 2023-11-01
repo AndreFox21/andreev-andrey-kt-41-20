@@ -6808,11 +6808,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andreev\\Documents\\Andreev\\lab\\AndreevAndreyKT-41-20.Tests\\AndreevAndreyKT-41-20.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Andreev\\Documents\\Andreev\\mylabFinish\\AndreevAndreyKT-41-20.Tests\\AndreevAndreyKT-41-20.Tests.csproj",
       "projectName": "AndreevAndreyKT-41-20.Tests",
-      "projectPath": "C:\\Users\\Andreev\\Documents\\Andreev\\lab\\AndreevAndreyKT-41-20.Tests\\AndreevAndreyKT-41-20.Tests.csproj",
+      "projectPath": "C:\\Users\\Andreev\\Documents\\Andreev\\mylabFinish\\AndreevAndreyKT-41-20.Tests\\AndreevAndreyKT-41-20.Tests.csproj",
       "packagesPath": "C:\\Users\\Andreev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andreev\\Documents\\Andreev\\lab\\AndreevAndreyKT-41-20.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Andreev\\Documents\\Andreev\\mylabFinish\\AndreevAndreyKT-41-20.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andreev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6829,8 +6829,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Andreev\\Documents\\Andreev\\lab\\AndreevAndreyKT-41-20\\AndreevAndreyKT-41-20.csproj": {
-              "projectPath": "C:\\Users\\Andreev\\Documents\\Andreev\\lab\\AndreevAndreyKT-41-20\\AndreevAndreyKT-41-20.csproj"
+            "C:\\Users\\Andreev\\Documents\\Andreev\\mylabFinish\\AndreevAndreyKT-41-20\\AndreevAndreyKT-41-20.csproj": {
+              "projectPath": "C:\\Users\\Andreev\\Documents\\Andreev\\mylabFinish\\AndreevAndreyKT-41-20\\AndreevAndreyKT-41-20.csproj"
             }
           }
         }

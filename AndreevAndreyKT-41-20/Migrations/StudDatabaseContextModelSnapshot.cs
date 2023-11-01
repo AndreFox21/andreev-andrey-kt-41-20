@@ -66,12 +66,10 @@ namespace AndreevAndreyKT_41_20.Migrations
                         .HasColumnName("academ_group_id")
                         .HasComment("ID группы");
 
-                    b.Property<string>("StudentDescription")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("varchar")
-                        .HasColumnName("student_description")
-                        .HasComment("Описание");
+                    b.Property<bool>("IsDismissed")
+                        .HasColumnType("bool")
+                        .HasColumnName("is_dismissed")
+                        .HasComment("Статус отчисления");
 
                     b.Property<string>("StudentName")
                         .IsRequired()
