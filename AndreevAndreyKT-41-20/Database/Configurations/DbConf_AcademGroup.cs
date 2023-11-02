@@ -36,18 +36,6 @@ namespace AndreevAndreyKT_41_20.Database.Configurations
                 .HasColumnName("group_description")
                 .HasColumnType(ColumnType.String).HasMaxLength(100)
                 .HasComment("Описание группы");
-
-            //
-
-            //builder.ToTable(TableName)
-            //.HasMany(p => p.Students)
-            //.WithOne(p => p.AcademGroup)
-            //.HasForeignKey(p => p.StudentId);
-            //.OnDelete(DeleteBehavior.Cascade);
-
-
-
-            //throw new NotImplementedException();
         }
     }
 }
