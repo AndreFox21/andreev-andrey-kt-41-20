@@ -58,8 +58,6 @@ namespace AndreevAndreyKT_41_20.Database.Configurations
             // явная автоподгрузка связанной сущности
             builder.Navigation(p => p.AcademGroup)
                 .AutoInclude();
-
-            //throw new NotImplementedException();
         }
     }
 }
