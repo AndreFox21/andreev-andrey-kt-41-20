@@ -11,13 +11,12 @@ namespace AndreevAndreyKT_41_20.Database
         //таблицы
         DbSet<Student> Students { get; set; }
         DbSet<AcademGroup> AcademGroups { get; set; }
-
+        
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             //конфигурации таблиц
             modelBuilder.ApplyConfiguration(new DbConf_Student());
             modelBuilder.ApplyConfiguration(new DbConf_AcademGroup());
-            //base.OnModelCreating(modelBuilder);
         }
 
         public StudDatabaseContext(DbContextOptions<StudDatabaseContext> options) : base(options)
